@@ -20,7 +20,6 @@ return "Nice"
 end
 
 def last_evaluated_value(phrase)
-phrase = "expect"
 return phrase
 end
 
