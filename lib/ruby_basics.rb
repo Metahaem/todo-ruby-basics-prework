@@ -20,7 +20,7 @@ return "Nice"
 end
 
 def last_evaluated_value(phrase)
-return phrase
+return "#{phrase}"
 end
 
 def pizza_party(topping = "cheese")
